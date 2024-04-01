@@ -1,2 +1,2 @@
 # springboot-normal_security
-Here you can learn how to implement spring security
+Here you can learn how to implement spring jwt token
